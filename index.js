@@ -14,7 +14,7 @@ function sayHiToGrandma(String){
   if (String === whisper(String))
   {return "I can't hear you!"}
   
-  else if (console.log(String) === "I love you, Grandma.")
+  else if (String === "I love you, Grandma.")
  {
    return "I love you, too."
  } 
