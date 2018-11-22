@@ -17,7 +17,8 @@ function sayHiToGrandma(String){
   if (String === shout(String));
  { return "YES INDEED!"}
  
- if (String === "I love you, Grandma."){
+ if (console.log(String) === "I love you, Grandma.")
+ {
    return "I love you, too."
  }
 }
